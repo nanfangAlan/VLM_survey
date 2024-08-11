@@ -448,7 +448,6 @@ If you find our work useful in your research, please consider citing:
 |[SegPrompt: Boosting Open-World Segmentation via Category-level Prompt Learning](https://arxiv.org/pdf/2308.06531v1.pdf)|ICCV 2023|[Code](https://github.com/aim-uofa/SegPrompt)|
 |[ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation](https://arxiv.org/pdf/2308.07078.pdf)|arXiv 2023|-|
 |[Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP](https://arxiv.org/pdf/2308.02487.pdf)|arXiv 2023|[Code](https://github.com/bytedance/fc-clip)|
-|[Plug-and-Play, Dense-Label-Free Extraction of Open-Vocabulary Semantic Segmentation from Vision-Language Models](https://arxiv.org/abs/2311.17095)|arXiv 2023|-|
 
 ### Knowledge Distillation for Other Tasks
 
